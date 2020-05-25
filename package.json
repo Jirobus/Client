@@ -1,0 +1,23 @@
+{
+  "name": "jirobus-client",
+  "version": "0.0.1",
+  "description": "Клієнт системи керування проектами сталої якості Jirobus",
+  "main": "create.js",
+  "dependencies": {
+    "node-fetch": "^2.6.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jirobus/Client.git"
+  },
+  "author": "IP-83 subteam",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Jirobus/Client/issues"
+  },
+  "homepage": "https://github.com/Jirobus/Client#readme"
+}
