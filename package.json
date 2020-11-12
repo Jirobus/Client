@@ -4,7 +4,7 @@
   "description": "Клієнт системи керування проектами сталої якості Jirobus",
   "main": "create.js",
   "dependencies": {
-    "node-fetch": "^2.6.0"
+    "node-fetch": "^2.6.1"
   },
   "devDependencies": {},
   "scripts": {
